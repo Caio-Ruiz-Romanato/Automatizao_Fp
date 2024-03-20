@@ -15,11 +15,11 @@ O sistema Balcão 2.0 é essencial para os balconistas da Drogaria São Paulo, f
 
 O teste automatizado é realizado em 5 etapas:
 
-1. **Autenticação do Usuário:** O teste inicia-se com a inserção de dados para logar no sistema com o usuário/cliente.
-2. **Seleção de Produto:** Uma vez autenticado, o sistema é testado para selecionar um tipo de produto.
-3. **Registro e Anexo ao Plano de Saúde:** Testa-se o registro do produto e sua vinculação ao plano de saúde do cliente.
+1. **Autenticação do Usuário:** Insere dados para logar com o usuário / cliente
+2. **Seleção de Produto:** Seleciona um tipo de produto
+3. **Registro e Anexo ao Plano de Saúde:** Registra o produto e ao mesmo tempo anexa ao plano de saúde do cliente
 4. **Emissão de Cupom:** O sistema é testado para garantir a emissão correta de um cupom de desconto.
-5. **Finalização da Compra:** Por fim, o teste verifica se o produto é adicionado à cesta e se o atendimento é finalizado corretamente.
+5. **Finalização da Compra:** Por fim, adiciona o produto à cesta e finaliza o atendimento.
 
 ## 📊 Estatísticas de Teste
 
