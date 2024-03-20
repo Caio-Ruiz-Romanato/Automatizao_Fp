@@ -1,10 +1,10 @@
 # Projeto Automatização Balcão 2.0
 
-Este projeto consiste em realizar testes automatizados para identificar falhas dentro do sistema balcão 2.0, utilizado dentro da Drogaria São Paulo.
+Este projeto consiste em realizar testes automatizados para identificar falhas dentro do sistema balcão 2.0.
 
 ## 📋 Funcionalidades
 
-Este sistema é utilizado pelos balconistas a fim de localizar medicamentos entre outras diversas funções para ajudar o cliente durante sua pesquisa.
+Este sistema é utilizado pelos balconistas a fim de localizar medicamentos entre outras diversas funções para ajudar o cliente durante sua compra.
 
 ## 🛠️ Testes Automatizados
 
